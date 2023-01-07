@@ -8,7 +8,18 @@ https://admin-dashboard-reactjs-app.netlify.app/
 
 # Description
 
+This is an Admin dashboard React.js project that utilizes advanced user interface techniques using a wide range of packages and libraries. The purpose of this project is to implement a fully-fledged application with an enterprise-level user experience.
+
 **Features:** <br/>
+
+1- Manage team: Users can customize data and roles. <br/>
+2- Contact information: Users can see information for all users and filter the list based on various variables. <br/>
+3- Export contact information. <br/>
+4- Add new users to the list using Yup validation forms. <br/>
+5- Calendar: Users can access a calendar using the Full Calendar library. They can add events, move events to a different date, or delete them. <br/>
+6- FAQ page for frequently asked questions. <br/>
+7- Users can present data using various types of charts using the Nivo library, including bar charts, pie charts, line charts, and geography charts. <br/>
+8- Dashboard that combines all the important information in one single page. <br/>
 
 # Tech Stack
 
