@@ -1,3 +1,26 @@
+# Admin Dashboard Application
+
+# Live Version
+
+https://admin-dashboard-reactjs-app.netlify.app/
+
+# Image of application
+
+# Description
+
+**Features:** <br/>
+
+# Tech Stack
+
+- ReactJs <br/>
+- [Material UI](https://mui.com/material-ui/getting-started/installation/) <br/>
+- [Nivo charts](https://nivo.rocks/components/) <br/>
+- [Full calander](https://fullcalendar.io/docs) <br/>
+- [Formik](https://formik.org/docs/overview#installation) <br/>
+- [Yup validation](https://github.com/jquense/yup) <br/>
+- [React pro sidebar](https://github.com/azouaoui-med/react-pro-sidebar) <br/>
+- [Google fonts](https://fonts.google.com/) <br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
