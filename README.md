@@ -27,7 +27,7 @@ This is an Admin dashboard React.js project that utilizes advanced user interfac
 - [Material UI](https://mui.com/material-ui/getting-started/installation/) <br/>
 - [Nivo charts](https://nivo.rocks/components/) <br/>
 - [Full calander](https://fullcalendar.io/docs) <br/>
-- [Formik](https://formik.org/docs/overview#installation): A form library to build forms quick and easily.<br/>
+- [Formik](https://formik.org/docs/overview#installation): A form library to build forms quickly and easily.<br/>
 - [Yup validation](https://github.com/jquense/yup) <br/>
 - [React pro sidebar](https://github.com/azouaoui-med/react-pro-sidebar) <br/>
 - [Google fonts](https://fonts.google.com/) <br/>
